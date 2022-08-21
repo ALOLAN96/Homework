@@ -6,3 +6,6 @@ stu.o:stu.c
 
 stu_manage.o:stu_manage.c
 	gcc -c stu_manage.c -o stu_manage.o
+	
+clean:
+	rm *.o target
