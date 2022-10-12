@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/5a79837079e8cc1cf4ab0a89554c50a8969ac522f87b93d48.gif</file>
+        <file>icon/cancel.png</file>
+        <file>icon/d6ea-irtymmv4160044.gif</file>
+        <file>icon/login.png</file>
+        <file>icon/logo.png</file>
+        <file>icon/passwd.jpg</file>
+        <file>icon/userName.jpg</file>
+    </qresource>
+</RCC>
